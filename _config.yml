@@ -26,8 +26,6 @@ url: "https://seif.codes" # the base hostname & protocol for your site
 twitter_username: seiflotfy
 github_username:  seiflotfy
 
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
-
 # Build settings
 markdown: kramdown
 
