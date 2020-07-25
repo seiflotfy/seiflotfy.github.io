@@ -27,6 +27,7 @@ twitter_username: seiflotfy
 github_username:  seiflotfy
 
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
+skin: "/assets/css/skins/default.css"
 
 # Build settings
 markdown: kramdown
@@ -50,6 +51,9 @@ footer_links:
     icon: fas fa-rss-square
 
 disqus_shortname: disqusshortname
+
+feed:
+  path: atom.xml
 
 # Exclude from processing.
 # The following items will not be processed, by default.
