@@ -1,9 +1,8 @@
 ---
 layout: page
-title: "Seif Codes"
-permalink: /about/
+title: "seif.codes"
+permalink: /
 ---
 
-# Hello GitHub-Pages
-
-Hello World :)
+# Contents
+{:toc}
