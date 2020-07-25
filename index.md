@@ -1,8 +1,3 @@
 ---
-layout: page
-title: "seif.codes"
-permalink: /
+layout: home
 ---
-
-# Contents
-{:toc}
