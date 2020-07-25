@@ -27,7 +27,7 @@ twitter_username: seiflotfy
 github_username:  seiflotfy
 
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
-skin: "/assets/css/skins/default.css"
+skin: "/assets/css/skins/dark.css"
 
 # Build settings
 markdown: kramdown
@@ -50,7 +50,37 @@ footer_links:
     url: atom.xml
     icon: fas fa-rss-square
 
-disqus_shortname: disqusshortname
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+
+# Front Matter Defaults
+defaults:
+  # Posts defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      share: true
+
+# Site Author
+author:
+  name: Seif Lotfy
+  picture:
+  email: me@seif.codes
+  twitter: seiflotfy
+
+# Footer Links
+footer_links:
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square
+
+
+disqus_shortname: seiflotfy
 
 feed:
   path: atom.xml
