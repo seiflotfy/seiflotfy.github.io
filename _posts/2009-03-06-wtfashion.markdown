@@ -1,0 +1,35 @@
+---
+layout: post
+title: WTFashion?
+date: '2009-03-06 19:10:22'
+tags:
+- crap
+- fashion
+- jeans
+- shirts
+- shoes
+---
+
+Lately I somehow got into some discussions about fashion. Believe it or not I might not look like it but I do have an opinion and I know what is good and what is not! Just because I don't like being fashionable does not mean I have no clue? I was raised in the textiles and shoes business. And although I never wanted to pursue this career path I did develop a good sense of taste which I don't apply on myself, but rather use to judge others (Yes I am a hypocrite). First things first I have to make myself clear about my stance towards dressing up. After several fashion transformations in my life from boy-bandish kind of look all the way to hip hop, I ended up with a very plain and simple look that I have been preserving for 6 years.
+<ol>
+	<li><strong>Shoes:</strong> Although I am a shareholder in a shoe business, I only have 4 shoes: Chucks, Nike, some casual normal brown shoes and black shoes for my suit ( I also have boots that just come up during the winter ). I think this is more than enough, I replace them every 6 - 18 months. I never buy shoes that cost more than 80€, knowing that the production and the shipment of the shoes cost up to maximum 5€. And no way except on the beach will you find me wearing flip flops unless I am already running around barefoot. It's not that I think my feet are disgusting ( which they are not ), it's just that I don't find flip flops very practical. The clapping noise some of them do is just extremely annoying. Like high heals they limit your freedom in movement ( in this case running ) for the sake of keeping up with the fashion zeitgeist. I always wear shoes that, unless for specific occasions, I can use to undertake spontaneous activities such as running, dancing, fooling around, etc ...</li>
+	<li><strong>Shirts:</strong> You will never find me wearing shirts with drawings on them unless its humorous within the topic range of: Star Wars, South Park, Simpsons, Penguins, Pandas, Mickey Mouse, Futurama, Marvel/DC comics and geeky/nerdy stuff like found in <a href="http://www.xkcd.com">XKCD</a>. It usually because for me they make sense. I can't wear something with a nice hot woman or paintings or weird drawings. Also wearing shirts that over reveal the label or the company name is not my thing. Nothing is better then a plain white or red shirt. I do like stripes and squares though, I can wear those. Another issue is shirts should not be too tight. I might be chubby now but I used to have a good figure. Back then I never liked wearing tight shirts. Arm pit stains are tight shirts arch-nemesis. And shirts must be below the belt. If you want to see my package just ask me to present it. A shirt revealing my hairy tummy ( which I am will never shave ) when I stretch or something is disgusting.</li>
+	<li><strong>Pants/Shorts:</strong> I wear normal jeans in the winter and usually shorts in the summer. I like golfer shorts. I never wear black pants or shorts though! And no way in hell will I ever try on those skinny tight jeans some men wear nowadays. I thought tighty whiteys are not good for the "OO" (not butt cheeks btw), then why do people wear skinny jeans.</li>
+</ol>
+So I end up having a semi nerdy look. So what at least I am identifiable. Visit Egypt and you will notice everyone dresses up alike. My problem is that fashion keeps on changing and I really have more things to worry about than what will I wear to impress people. But nowadays I look around and see how "messed up" people dress up, it is outrageous. If they take out all this imaginary fashion stuff from their heads and look in the mirror they would be shocked. However let's get back to the topic. Every era had it's own fashion sense. Let me try to list them down.
+<ul>
+	<li>70's: flared trousers, platform shoes, velvets, courdroy, feather boas, shirts with big collars, think hippy.</li>
+	<li>80's: general, puffball skirts, rara skirts, off the shoulder tops and legwarmers. Let's not forget the the sexless Michael Jackson / Prince look.</li>
+	<li>90's: grunge look, goth, punk, hip hop. The looks got more and more associated with music genres, probably because of MTV.</li>
+</ul>
+Maybe because a lot of celebrities started their own clothing lines, the trend somehow continued all the way to many teenagers who think they are qualified to become designers because:
+<ul>
+	<li>Their favourite celebrity started his/her own brand</li>
+	<li>He/she once drew a shirt, jeans or dress and their moms told them it looks good.</li>
+	<li>They dressed up well on an outing and got compliments (this is not so hard in Egypt if you just wear brands)</li>
+	<li>They went to Italy or France on vacation (Egyptians like bragging about that)</li>
+	<li>They saw a celebrity wearing a similar shirt or skirt that they bought a couple of weeks ago.</li>
+	<li>They stare at themselves to much in the mirror and fall in love with their looks.</li>
+</ul>
+They then use daddies connections to start their own clothing line or accessories collection. Again we really don't need more people in the fashion industry. "The more the merrier" concept does not apply in this case. I don't mean to say that there is no talent out there. We just need to filter out the new monkey ranch and stop them from designing our clothes and shoes and claiming it to be the new thing as in fashion. Stop them before they come up with the stupid idea of designing fragrance to create a perfume or aftershave. Lately in Egypt alot of new designers have appeared and apparently were on international events etc. I had a look at their designs and wow it is random crap put together. If I had a kid trying to fulfil his dreams by becoming a designer of course I would want to help him reach for it, subject to him/her having the necessary talent. If my kid comes up with a nice drawing I will hang it up on the fridge. If however my kid comes up with a sculpture made out of a pile of shit I will discourage him taking this path. Now people who get into the designing business are usually not kids anymore, so it shouldn't be hard for the parents to tell them "no we won't help you out you are not talented". But since they don't we end up with random desingers that are tasteless and colour-blind and still considered by their Facebook friends as designers. They enjoy being complimented from other friends to boost their own egos, well guess what those are not your friends. You have never seen them wear your stuff now did you? And although going up to celebrities to make them wear your accessories is a good marketing strategy, it still does not make it fashionable so please don't embarrass yourself by publishing those designs. You just dubbed this new era of fashion as....
+<p style="text-align: center;">"RANDOM CRAPOLA"</p>

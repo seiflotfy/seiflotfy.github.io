@@ -1,0 +1,43 @@
+---
+layout: post
+title: Sc(r)um
+date: '2014-03-22 20:01:40'
+tags:
+- kde
+---
+
+![](http://cdn.memegenerator.net/instances/250x250/43765307.jpg)
+
+*I am entitled to my opinion and in my honest opinion*: **scrum sucks big time**
+
+Here is why (again my opinion).
+
+* Does not empower developers to become creative. 
+Good way to sell that the developers are doing something (so that failure is not their fault) even if running around in circles ==> plausible deniability
+
+* Highly motivated developers are limited from jumping out of the “plan” to hack on other project related stuff (even doing so in free time is regarded wrong since you are not sticking to a plan). Thus limiting the personal success story and relying on motivation to come from team achievements. So being a weak link in a team just makes matters worse.
+
+* The “Daily Stand-up" routine is not productive in its defined structure of:
+   - **What did I accomplish yesterday?** Tried to finish a story. Ran out of time.
+   - **What will I do today?** Will try to finish this story.
+   - **What obstacles are impeding my progress?** This meeting, the circle jerk around legacy code and the dude demanding me to discuss every merge request before submitting it. (Just accept/deny with a comment - thank you ;) )
+
+* Stories over quality: Developers are keen to finish as much stories as possible which could to take a toll on the quality.
+
+* Not applicable on a distributed community of volunteers, or when dependency on open source community exist.
+
+* Time-boxed problem solving does not guarantee best possible outcome.
+
+* The commitment:  One of the reason Scrum fails is its approach on commitment. "Deliver the maximum value of stories in a specific time frame”. As soon as the team can not agree on committing to a story all other stories with lower priority are ignored. And once done with those stories you pick the one out of the backlog that you couldn’t agree on (Since it has the highest priority) and waste time on it. You can’t skip this story since it has the highest priority. To me this is like sitting in an exam and being stuck on a problem. Instead of moving to the next problem with the hope of gathering as much points as possible, one decided to be stubborn and try fucking with that problem. That is just stupid. Now assume I solved the problem. Scrum now forces me to pick something from the backlog. And not anything. But the one with the highest priority and again waste time being stuck on that until the time ends. If would have adapted this style of tackling problems during school I would have never passed.
+
+Don't get me wrong Scrum can work don't know how personally but I do believe it can work with the right team and people, however what are the chances of it succeeding if 2 or more of the following apply:
+
+- You don't have full control of the stack (dependency on third party)
+
+- Your developers are not all on the same level of expertise and knowledge.
+
+- Shoehorned into an ongoing running process and code base.
+
+- Stories of the team are not focused on a specific topic but on the general delivery of the whole project.
+
+I look at GNOME, Mozilla and the Kernel. They don’t follow this methodology and stuff happens and gets delivered. So much big companies can learn from FLOSS.

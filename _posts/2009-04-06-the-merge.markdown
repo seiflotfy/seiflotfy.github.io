@@ -1,0 +1,51 @@
+---
+layout: post
+title: GNOME-Zeitgeist meets Mayanna THE ULTIMATE FAQ
+date: '2009-04-06 04:15:34'
+tags:
+- gnome
+- mayanna
+- zeitgeist
+---
+
+Perhaps as a result the recent news about <a title="GNOME 3.0 plans mentioning GNOME Zeitgeist" href="http://live.gnome.org/ThreePointZero/Plan" target="_blank">GNOME 3.0 mentioning GNOME-Zeitgeist</a> (Yay!). A lot of people have been visiting our IRC channel lately asking about the project. In the chats that evolved we told them about our merging with the <a title="Mayanna" href="https://edge.launchpad.net/mayanna" target="_blank">Mayanna</a> project which led to some questions regarding Mayanna. Since many people have the same questions, we compiled this little FAQ.
+
+<strong>1. Why do you merge again? I didn't get that part.</strong>
+
+We have a little problem in GNOME-Zeitgeist. Our dataprovides reside in the same process as everything else and therefor block our GUI quite undesirably. Mayanna provides a solution to our problem that involves little work and has some additional benefits. More of it in Q5
+
+<strong>2. What is this Mayanna no one was talking about just 5 minutes ago?</strong>
+
+Mayanna is not Mayanna-legacy (an optimized fork of Gimmie). Instead it's a complete rewrite without any of the obvious problems Gimmie used to have. Mayanna is basically a plugin architecture (plugin platform) written in python to manage and view objects-of-interest (emails, files, contacts, events, tasks, whatever).
+
+<strong>3. What is Mayanna/Zeitgeists's goal?</strong>
+
+Both have the ultimate goal of providing you a personal interface to all the information you store on your PC and on the web. Complete with means to organize and search the stuff and with enhanced interaction subroutines.
+
+<strong>4. Plugins eh? Like Add-ons in Firefox right? Now what use would that be, an application just babysitting plugins, doing nothing of itself?</strong>
+
+Not exactly like Add-ons and well, not exactly plugins either. A plugin in Mayanna is a thin wrapper around so called Services which is used to manage them more easily. So what does a Service? It creates, manipulates or displays Items (the internal representation of the aforementioned objects-of-interest).
+
+<strong>5. So every thing's a plugin, right. Why not supply the GUI via plugin also?</strong>
+
+In fact, that's exactly the thing we want to do. Of cource Mayanna itself will have to provide a GUI to manage the services and to set some preferences. But apart from that the GUI will be supplied by plugins (some of which the Mayanna project will write). Why? Because everyone uses their computer differently and Mayanna wants to supply more than one possible solution to your every day computing needs. Different solutions require different GUIs. That's why the Mayanna Team dances the plugin dance.
+
+<strong>6. So what is that solution you mentioned in Q1?</strong>
+
+Mayanna's Services can be run in separate processes and it's modular design makes merging very easy. Some parts of GNOME-Zeitgeist will be ported to Mayanna's plugin system, others become core parts of Mayanna. The plugin parts will be a default part of Mayanna that comes with the application. We see Mayanna as a very robust framework for building apps. It isn't quite a MVC, but its something equally neat. Besides, we really like the idea and realization of Mayanna and see the potential which lies in it's services working together and using one another. We think Zeitgeist may very well profit from 3rd party services that way.
+
+<strong>7. What about the name "GNOME-Zeitgeist"?</strong>
+
+Although we (and a lot of other people) like the name Zeitgeist, Mayanna has a much broader scope and calling the combination of the two "Zeitgeist" or "GNOME-Zeitgeist" would be misleading and hurting the project in the long run. We know of course about the publicity connected with the name "GNOME-Zeitgeist" (we read the news as well) and we expect to lose some of that while merging. This FAQ is part of our effort to keep as much of it as possible and in the meantime to extend it to the Mayanna Project. The newly created plugin will still bear the name Zeitgeist. So it should not be forgotten. Zeitgeist will be the AI and partly a UI of Mayanna.
+
+<strong>8. What about the developers?</strong>
+
+The GNOME-Zeitgeist and Mayanna maintainers have worked together before and helped each other set the first milestones of their respective projects. With this reunion the developer teams will merge (as team Zeitgeist) to improve the Mayanna engine as well as the Zeitgeist algorithms.
+
+<strong>9. What about GNOME 3.0</strong>
+
+It is still our aim to be included in GNOME 3.0 as is the aim of the Zeitgeist (GNOME-Zeitgeist and Mayanna) developers. We see this merge as an important step towards that goal.
+
+<strong>10. So how is it going?</strong>
+
+It's done. The most part that is. We are in the progress of tieing together the last lose ends on the Item producing part and looking forward to hacking away at the GUI code. Memory consumption is low as ever and we even see some improvements compared to the old code.

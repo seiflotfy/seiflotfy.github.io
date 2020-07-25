@@ -1,0 +1,23 @@
+---
+layout: post
+title: Gedit - Dash 0.1
+date: '2011-11-03 19:14:34'
+---
+
+At last you can try it out the gedit plugin that Hylke and I have been working on for the last couple of days..
+
+In an experiment to for alternative "open file" dialogs we started experimenting with the Dash. When you open a new tab you will be greated with the following page. The thumbnails generated skip "comments" and "imports" and try to jump directly to some code or text from your work.
+
+<a href="http://geekyogre.com/content/images/2011/11/Screenshot-at-2011-11-03-185837.png"><img class="size-full wp-image-2102 alignnone" title="Screenshot at 2011-11-03 18:58:37" src="http://geekyogre.com/content/images/2011/11/Screenshot-at-2011-11-03-185837.png" alt="" width="741" height="450" /></a>
+
+If you start typing you will see results in a new view...
+
+<a href="http://geekyogre.com/content/images/2011/11/Screenshot-at-2011-11-03-185919.png"><img class="size-full wp-image-2103 alignnone" title="Screenshot at 2011-11-03 18:59:19" src="http://geekyogre.com/content/images/2011/11/Screenshot-at-2011-11-03-185919.png" alt="" width="742" height="449" /></a>
+
+Clicking on Most or Recently Used will take you back to the Dash.
+
+This plugin depends on "<strong>zeitgeist</strong>" and the "<strong>zeitgeist-fts-extension</strong>". You can get the code from launchpad
+<blockquote><strong>bzr branch lp:~seif/gedit/dash</strong></blockquote>
+or just download the following <a href="http://dl.dropbox.com/u/7162902/gedit-dash.tar.gz">tarball</a> and place the content in ~/.local/share/gedit/plugins
+
+In the following days I will be talking more with the gedit guys and gnome designers on maybe a new layout for gedit. And hopefully get the dash into gedit-plugins upstream soon...

@@ -1,0 +1,57 @@
+---
+layout: post
+title: Globaleaks 0.2 Alpha
+date: '2013-05-18 22:25:46'
+---
+
+![](https://globaleaks.org/img/logo.png)
+
+<strong>Globaleaks 0.2 Alpha is out.</strong>
+
+<strong></strong><a href="https://globaleaks.org/">Globaleaks</a> is an open source project aimed at creating a worldwide, anonymous, censorship-resistant, distributed whistle-blowing platform. It enables organizations interested in running whistle-blowing initiatives to setup their own safe zone, where whistle-blowers and recipients can exchange data.
+
+2 Years ago I helped out with the development of Globaleaks 0.1. And although I am not active anymore, I really support the initiative behind it. Now with the <a href="http://logioshermes.org">HERMES Center for Transparency and Digital Human Rights</a> backing it up, it has grown a lot and shaped up to be a very organized and thought through project.
+
+<strong>TL;DR</strong>:
+<ul>
+	<li>Full rewrite</li>
+	<li><span style="line-height: 1.714285714; font-size: 1rem;">More flexible and extensible</span></li>
+	<li>Linux ready-made system and network hardened installation</li>
+	<li>
+<div id="magicdomid17"><span style="line-height: 1.714285714; font-size: 1rem;">Written in python using twisted</span></div></li>
+	<li>New Frontend</li>
+</ul>
+<strong>Try it out:</strong>
+
+Try out the <a href="http://demo.globaleaks.org/">demo</a>. It is pretty straight forward.
+
+<strong style="line-height: 1.714285714; font-size: 1rem;">Help out:</strong>
+
+As young project, Globaleaks can use some help fixing <a href="https://globaleaks.org/bughunting/">bugs</a>. Just head to the <a href="https://github.com/globaleaks/GlobaLeaks/wiki">wiki</a> and read through it. It is pretty straight forward, and explains the modules, security concepts and set up instructions.
+
+Globaleaks already has Debian and Ubuntu ready packages. An easy way to help out is to set up a  PPA for us on Launchpad. :D
+
+<strong>Get in touch:</strong>
+
+<strong></strong>You can contact the Globaleaks team at info () globaleaks org or on IRC on #globaleaks at irc.oftc.net
+
+Here are some screenshots of the new frontend :D
+
+<a href="http://geekyogre.com/content/images/2013/05/Screen-Shot-2013-05-18-at-1.04.53-PM1.png"><img class="size-medium wp-image-3324" alt="Congratulation you are using Tor" src="http://geekyogre.com/content/images/2013/05/Screen-Shot-2013-05-18-at-1.04.53-PM1.png" /></a>
+Congratulations you are using Tor
+
+
+<a href="http://geekyogre.com/content/images/2013/05/Screen-Shot-2013-05-18-at-1.04.53-PM1.png"><img class="size-medium wp-image-3324" alt="Congratulation you are using Tor" src=http://geekyogre.com/content/images/2013/05/Screen-Shot-2013-05-18-at-1.04.53-PM1.png" /></a>
+Congratulations you are using Tor
+
+<a href="http://geekyogre.com/content/images/2013/05/Screen-Shot-2013-05-18-at-1.07.57-PM1.png"><img class="size-medium wp-image-3325" alt="Receiver selection page" src="http://geekyogre.com/content/images/2013/05/Screen-Shot-2013-05-18-at-1.07.57-PM1.png"/></a>
+Receiver selection page
+
+<a href="http://geekyogre.com/content/images/2013/05/Screen-Shot-2013-05-18-at-1.09.10-PM1.png"><img class="size-medium wp-image-3327" alt="The submission receipt" src="http://geekyogre.com/content/images/2013/05/Screen-Shot-2013-05-18-at-1.09.10-PM1.png"/></a>
+The submission receipt
+
+<a href="http://geekyogre.com/content/images/2013/05/Screen-Shot-2013-05-18-at-11.07.47-PM.png"><img class="size-medium wp-image-3329" alt="Configuring a receiver" src="http://geekyogre.com/content/images/2013/05/Screen-Shot-2013-05-18-at-11.07.47-PM.png"/></a>
+Configuring a receiver
+
+<a href="http://geekyogre.com/content/images/2013/05/Screen-Shot-2013-05-18-at-11.08.08-PM.png"><img class="size-medium wp-image-3330" alt="Configuring a context" src="http://geekyogre.com/content/images/2013/05/Screen-Shot-2013-05-18-at-11.08.08-PM.png"/></a>
+Configuring a context

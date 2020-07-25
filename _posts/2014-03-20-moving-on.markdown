@@ -1,0 +1,22 @@
+---
+layout: post
+title: Moving on...
+date: '2014-03-20 23:57:43'
+---
+
+![](http://funny-pictures-blog.com/wp-content/uploads/2013/07/MEME-Whale-Bye-Then.jpg)
+
+The last year has been a rough year. I started working for Deutsche Telekom (with a bunch of other FLOSS developers) on OpenStack. What started off as developing new features upstream ended up being more or less devops stuff (mainly Puppet and orchestration) which is not really my style.
+
+During that time I was working on GNOME Music, I enjoyed developing it a lot, the students and the team are just amazing but I was growing unhappy with the external micromanagement that I experienced which personally stressed me and made me feel unappreciated for what I think I can bring to the table. What started off as a hobby became a burden, so at GUADEC I decided to spend time away from GNOME. Strangely enough I started feeling better, I took things a step further and switched to Mac and noticed what a long road we have for the Linux desktop. I became more convinced that the focus of delivering an experience for the desktop or mobile market is misplaced and we missed both trains. The only way for GNOME to continue being relevant is to either start focusing on wearable experience or focus on marketing the technology first then the experience. Get GNOME tech on other platforms and wearables.
+
+Anyhow being unhappy can take a toll on the mental and physical health, I became a bit depressed and negative person and my health was declining. I went through this a couple of years ago when my father passed away and found an escape contributing to GNOME and FLOSS. So with that some decision had to be taken.
+
+Somehow I can’t see myself actively contributing to GNOME anymore and maybe its for the best. I’ll be around and will help out when I can if asked directly. But I won’t be running GNOME actively.
+
+I am also taking time off contributing to Mozilla. However I do see myself coming back soon since I am missing it already. I really enjoy the compatibility team (where we use some GNOME technologies including GI) and the community building team.
+I will continue maintaining Zeitgeist but there will be no active feature development. After almost 6 years we all moved on and Zeitgeist is feature complete.
+
+I quit my job. I am on a nice vacation for a bit and will be starting my new job sooner than expected. With a help of friends and my girl-friend I started getting my self-esteem back and all is better again.
+
+Feeling better already :D (No depression)
