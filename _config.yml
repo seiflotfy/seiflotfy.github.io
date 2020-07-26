@@ -19,7 +19,7 @@ remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/light.css"
 locale: en-US
 title: "seif.codes"
-description: "eat, sleep, <code>, repeat"
+description: "eat, sleep, `<code>`, repeat"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://seif.codes" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
@@ -37,9 +37,9 @@ google_fonts:
     weights: "400,400i,700,700i"
 google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
-  shortname: # Disqus shortname, e.g. "my_disqus_shortname"
+  shortname: seiflotfy # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
-  username: # site's Twitter username, e.g. "mmistakes"
+  username: seiflotfy # site's Twitter username, e.g. "mmistakes"
 
 # Liquid
 liquid:
@@ -79,16 +79,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
-
-# Front Matter Defaults
-defaults:
-  # Posts defaults
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: post
-      share: true
 
 # Site Author
 author:
