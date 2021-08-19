@@ -16,7 +16,7 @@
 # theme: jekyll-theme-so-simple
 
 remote_theme: P0WEX/Gesko
-skin: "/assets/css/skins/light.css"
+# skin: "/assets/css/skins/light.css"
 locale: en-US
 title: "seif.codes"
 description: "eat, sleep, < code >, repeat"
